@@ -1,0 +1,4 @@
+thedeal	birds
+1	dumb
+2	bigdumb
+3	smalldumb
